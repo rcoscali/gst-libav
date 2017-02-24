@@ -49,3 +49,5 @@ Build
 *.sdf
 *.opensdf
 *.DS_Store
+
+gst-libav\.spec
